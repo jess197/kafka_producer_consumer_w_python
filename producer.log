@@ -1,0 +1,14 @@
+2023-07-20 22:32:25 Produced message on topic user-tracker with value of {"user_id": 81092, "user_name": "Wendy Solomon", "user_address": "06789 Richardson Island | Waltonport | DO", "platform": "Tablet", "signup_at": "2023-07-18 21:14:26"}
+
+2023-07-20 22:32:29 Produced message on topic user-tracker with value of {"user_id": 81172, "user_name": "Dr. Matthew Luna", "user_address": "00700 Lauren Key Apt. 396 | Michaelburgh | IT", "platform": "Laptop", "signup_at": "2023-07-19 16:10:26"}
+
+2023-07-20 22:32:33 Produced message on topic user-tracker with value of {"user_id": 72011, "user_name": "Karen Orr", "user_address": "279 Burns Ports Apt. 430 | Morganshire | NE", "platform": "Tablet", "signup_at": "2023-07-07 15:34:48"}
+
+2023-07-20 22:32:37 Produced message on topic user-tracker with value of {"user_id": 33468, "user_name": "Scott Brooks", "user_address": "351 Adkins Valleys | Gregorybury | TH", "platform": "Laptop", "signup_at": "2023-07-11 23:21:46"}
+
+2023-07-20 22:32:41 Produced message on topic user-tracker with value of {"user_id": 69935, "user_name": "Christopher Mitchell", "user_address": "647 Garcia Lights | Garrettstad | NP", "platform": "Laptop", "signup_at": "2023-07-04 10:10:44"}
+
+2023-07-20 22:32:45 Produced message on topic user-tracker with value of {"user_id": 56540, "user_name": "Belinda Woodard", "user_address": "8899 Levi Forges | East Dalechester | LS", "platform": "Laptop", "signup_at": "2023-07-09 14:53:35"}
+
+2023-07-20 22:32:49 Produced message on topic user-tracker with value of {"user_id": 88744, "user_name": "Angela Olson", "user_address": "66996 Reed Plaza Suite 111 | West Dianahaven | VE", "platform": "Laptop", "signup_at": "2023-07-03 07:19:51"}
+

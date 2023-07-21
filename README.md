@@ -1,2 +1,2 @@
-# kafka_producer_consumer_w_python
+# Kafka Producer and Consumer with python
 Understanding Kafka's Producer and Consumer
